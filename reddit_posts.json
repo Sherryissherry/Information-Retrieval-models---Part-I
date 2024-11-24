@@ -1,0 +1,20 @@
+[
+    {
+        "Title": "Title 1",
+        "URL": "https://example.com/post1",
+        "Author": "Author1",
+        "Subreddit": "subreddit1",
+        "Points": 100,
+        "Comments": 10,
+        "Submission Time": "2023-09-18T12:00:00"
+    },
+    {
+        "Title": "Title 2",
+        "URL": "https://example.com/post2",
+        "Author": "Author2",
+        "Subreddit": "subreddit2",
+        "Points": 200,
+        "Comments": 20,
+        "Submission Time": "2023-09-18T13:00:00"
+    }
+]
